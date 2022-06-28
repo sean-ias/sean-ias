@@ -26,8 +26,11 @@ Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist.
 
 My tech stack:
 <b>Cybersecurity</b>: Networking, Cryptography, Attacks & Concepts, Linux, XDR, Reporting;
-<b>DevOps</b>: OS (https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667 & ![image](https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png)
-), Cloud & Virtualization ([AWS EC2](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg), [Ubuntu Server](https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667), Oracle VM, VMware), SSH, VCS with https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667, [Bash/Shell](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) Scripting, Networking, ![image](https://user-images.githubusercontent.com/69764265/176157352-be530d53-a9be-4f96-b48e-7e0ef8b222cc.png), CI/CD;
+<b>DevOps</b>: OS (![image](https://user-images.githubusercontent.com/69764265/176158241-8267894a-619a-4c92-9df4-39ef845e147f.png) & ![image](https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png)
+), Cloud & Virtualization ([AWS EC2](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg), ![image](https://user-images.githubusercontent.com/69764265/176158364-9111cf29-f200-4ec9-aced-f2f4b849d531.png)
+, Oracle VM, VMware), SSH, VCS with ![image](https://user-images.githubusercontent.com/69764265/176158517-20ad5631-58d1-4a73-b363-f9cc614f2237.png)
+ at ![image](https://user-images.githubusercontent.com/69764265/176158098-6bfd9a51-0cf0-46fc-bc71-9e08671c8c3b.png)
+/![image](https://user-images.githubusercontent.com/69764265/176158124-7c01573a-bdc3-4f2e-8fc6-4c5479d01407.png), [Bash/Shell](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) Scripting, Networking, ![image](https://user-images.githubusercontent.com/69764265/176157352-be530d53-a9be-4f96-b48e-7e0ef8b222cc.png), CI/CD;
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
