@@ -14,44 +14,28 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 
-Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist. I am doing my Bachelor's in Information Security at Tashkent University of Information Technologies. I believe in the power of technology to change the lives of people positively. Except Security, I am also curious about DevOps, Competitive Programming, Software Engineering, and AI. My only and previous official job position was Cybersecurity Specialist at Sababa Security company.
+Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist.
+- 📚🎓 I am doing my Bachelor's in Information Security at Tashkent University of Information Technologies. 
+- ⚙️💻 I believe in the power of technology to change the lives of people positively. Except Security, I am also curious about DevOps, Competitive Programming, Software Engineering, and AI. 
+- 🔐👨‍💻My only and previous official job position was Cybersecurity Specialist at Italian based company - Sababa Security.
+- 📈📖 Currently busy with CISCO's and TryHackMe's courses (Cybersecurity, Linux, Networking, Penetration Testing, and more ...)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com [](mail:"yshy2003@gmail.com ")
+- 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com
 
 My tech stack:
+<b>Cybersecurity</b>: Networking, Cryptography, Attacks & Concepts, Linux, XDR, Reporting;
+<b>DevOps</b>: OS (https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667 & ![image](https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png)
+), Cloud & Virtualization ([AWS EC2](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg), [Ubuntu Server](https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667), Oracle VM, VMware), SSH, VCS with https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667, [Bash/Shell](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) Scripting, Networking, ![image](https://user-images.githubusercontent.com/69764265/176157352-be530d53-a9be-4f96-b48e-7e0ef8b222cc.png), CI/CD;
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-
-
-```text
-JavaScript   16 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 %
-React        10 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
-```
-
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/jonibek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 <p align="center">
   <a href="https://github.com/MJony05?tab=repositories&sort=stargazers">
