@@ -20,16 +20,13 @@ Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist.
 - 🔐👨‍💻My only and previous official job position was Cybersecurity Specialist at Italian based company - Sababa Security.
 - 📈📖 Currently busy with CISCO's and TryHackMe's courses (Cybersecurity, Linux, Networking, Penetration Testing, and more ...)
 - 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com
-- 
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-My tech stack:<br>
+My Tech Stack:<br>
 <b>Cybersecurity</b>: Networking, Cryptography, Attacks & Concepts, Linux, XDR, Reporting;<br>
 <b>DevOps</b>: <img alt="Windows" width="22px" src="https://user-images.githubusercontent.com/69764265/176158241-8267894a-619a-4c92-9df4-39ef845e147f.png"/> <img alt="Linux" width="22px" src="https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png"/> <img alt="AWS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> <img alt="Ubuntu" width="22px" src="https://user-images.githubusercontent.com/69764265/176158364-9111cf29-f200-4ec9-aced-f2f4b849d531.png"/> <img alt="VM" width="22px" src="https://user-images.githubusercontent.com/69764265/176161508-4429e6df-b741-43fd-acb5-fd355a28467d.png"/> <img alt="Git" width="22px" src="https://user-images.githubusercontent.com/69764265/176158098-6bfd9a51-0cf0-46fc-bc71-9e08671c8c3b.png"/> <img alt="GitLab" width="22px" src="https://user-images.githubusercontent.com/69764265/176158517-20ad5631-58d1-4a73-b363-f9cc614f2237.png"/> <img alt="GitHub" width="22px" src="https://user-images.githubusercontent.com/69764265/176158124-7c01573a-bdc3-4f2e-8fc6-4c5479d01407.png"/> <img alt="Bash" width="22px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/> <img alt="Docker" width="22px" src="https://user-images.githubusercontent.com/69764265/176157352-be530d53-a9be-4f96-b48e-7e0ef8b222cc.png"/> <img alt="Docker" width="22px" src="https://user-images.githubusercontent.com/69764265/176161835-39b43a1c-c87e-490f-9111-79c057121640.png"/>;<br>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<b>Competitive Programming</b>: DSA, <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>, <img height="20" src="https://user-images.githubusercontent.com/69764265/176163263-4a1726c8-a5dd-43d9-b1fd-196ebd17f614.png">, <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">;<br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
