@@ -30,27 +30,23 @@ My Tech Stack:<br>
 <b>Data Analysis & Databases</b>: <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176168871-fdf694b5-e3d1-4eac-bb73-65b0d5eae76e.png"> <img height="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176169056-5595b4cb-9ec1-4701-8b7f-bbc5c389963d.png"> <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><br>
 
 <p align="center">
-  <a href="https://github.com/MJony05?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MJony05"/></a>
-  <a href="https://github.com/MJony05?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MJony05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/MJony05">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MJony05&style=for-the-badge"/></a>
+  <a href="https://github.com/sean-ias?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sean-ias"/></a>
+  <a href="https://github.com/sean-ias?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sean-ias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/sean-ias">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=sean-ias&style=for-the-badge"/></a>
 </p>
 
-<br />
+<br/>
 
-## Snake Game
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MJony05&show_icons=true&theme=gotham" alt="Jonibek" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sean-ias&show_icons=true&theme=gotham" alt="Shokhrukh" />
 
 ## 💻 Last month's activity
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
-<a href=""><img alt="Jonibek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MJony05&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="Shokhrukh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sean-ias&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!--  |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
