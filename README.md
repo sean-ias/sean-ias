@@ -4,11 +4,14 @@
 <!-- <h1 align="center">Hi , </h1><br /> -->
 <h1> Hey there 👋, I'm Shokhrukh</h1>
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+<a href="https://www.linkedin.com/in/yursunjonov/">
+  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <a href="https://www.instagram.com/sean_syy/">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/yursunjonov/">
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://t.me/ysh_siuuu">
+  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
 </a>
 
 <!-- <a href="https://discord.gg/">
@@ -18,22 +21,17 @@
 <!-- <a href="https://open.spotify.com/user/">
   <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js
-- 💞️ I’m looking to collaborate on OpenSource.
-- 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a> -->
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 
 Hi, I'm <b>Shokhrukh Yursunjonov</b>, a 19 years old IT enthusiast from Tashkent who is proficient in DevOps, Security, Software Engineering, and Data Analysis. I believe in the power of technology to change the lives of people positively.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com [](mail:"yshy2003@gmail.com")
 
-- 💼 any freelance work? do reach, munirovjonibek@mail.ru [](mail:"munirovjonibek@mail.com")
-- 💬 ask me about anything, i am happy to help
-
-**languages and tools:**
+Technology Stack:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
