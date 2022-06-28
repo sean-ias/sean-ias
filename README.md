@@ -19,14 +19,13 @@ Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist.
 - ⚙️💻 I believe in the power of technology to change the lives of people positively. Except Security, I am also curious about DevOps, Competitive Programming, Software Engineering, and AI. 
 - 🔐👨‍💻My only and previous official job position was Cybersecurity Specialist at Italian based company - Sababa Security.
 - 📈📖 Currently busy with CISCO's and TryHackMe's courses (Cybersecurity, Linux, Networking, Penetration Testing, and more ...)
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 - 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com
+- 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 My tech stack:<br>
 <b>Cybersecurity</b>: Networking, Cryptography, Attacks & Concepts, Linux, XDR, Reporting;<br>
-<b>DevOps</b>: OS (<img alt="Windows" width="22px" src="![image](https://user-images.githubusercontent.com/69764265/176158241-8267894a-619a-4c92-9df4-39ef845e147f.png)"/> & <img alt="Linux" width="22px" src="![image](https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png)"/>)
+<b>DevOps</b>: OS (<img alt="Windows" width="22px" src="https://user-images.githubusercontent.com/69764265/176158241-8267894a-619a-4c92-9df4-39ef845e147f.png"/> & <img alt="Linux" width="22px" src="https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png"/>)
 ), Cloud & Virtualization ([AWS EC2](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg), ![image](https://user-images.githubusercontent.com/69764265/176158364-9111cf29-f200-4ec9-aced-f2f4b849d531.png)
 , Oracle VM, VMware), SSH, VCS with ![image](https://user-images.githubusercontent.com/69764265/176158517-20ad5631-58d1-4a73-b363-f9cc614f2237.png)
  at ![image](https://user-images.githubusercontent.com/69764265/176158098-6bfd9a51-0cf0-46fc-bc71-9e08671c8c3b.png)
