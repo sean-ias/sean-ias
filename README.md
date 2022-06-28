@@ -24,7 +24,7 @@ Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist.
 
 - 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com
 
-My tech stack:
+My tech stack:<br>
 <b>Cybersecurity</b>: Networking, Cryptography, Attacks & Concepts, Linux, XDR, Reporting;
 <b>DevOps</b>: OS (![image](https://user-images.githubusercontent.com/69764265/176158241-8267894a-619a-4c92-9df4-39ef845e147f.png) & ![image](https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png)
 ), Cloud & Virtualization ([AWS EC2](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg), ![image](https://user-images.githubusercontent.com/69764265/176158364-9111cf29-f200-4ec9-aced-f2f4b849d531.png)
