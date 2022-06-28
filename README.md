@@ -1,37 +1,26 @@
-<!-- ### Hi there 👋 -->
-<!-- <h3 align="center">A frontend developer from Uzbekistan</h3> -->
-
-<!-- <h1 align="center">Hi , </h1><br /> -->
 <h1> Hey there 👋, I'm Shokhrukh</h1>
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+
 <a href="https://www.linkedin.com/in/yursunjonov/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/sean_syy/">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
+
+<a href="https://instagram.com/sean_syy">
+  <img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
+
 <a href="https://t.me/ysh_siuuu">
-  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" />
 </a>
-
-<!-- <a href="https://discord.gg/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-
-<!-- <a href="https://open.spotify.com/user/">
-  <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 
-Hi, I'm <b>Shokhrukh Yursunjonov</b>, a 19 years old IT enthusiast from Tashkent who is proficient in DevOps, Security, Software Engineering, and Data Analysis. I believe in the power of technology to change the lives of people positively.
+Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist. I am doing my Bachelor's in Information Security at Tashkent University of Information Technologies. I believe in the power of technology to change the lives of people positively. Except Security, I am also curious about DevOps, Competitive Programming, Software Engineering, and AI. My only and previous official job position was Cybersecurity Specialist at Sababa Security company.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com [](mail:"yshy2003@gmail.com")
+- 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com [](mail:"yshy2003@gmail.com ")
 
-Technology Stack:
+My tech stack:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -52,29 +41,17 @@ Technology Stack:
 
 📊 **this week i spent my time on:**
 
-<!-- START_SECTION:waka -->
 
 ```text
 JavaScript   16 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 %
 React        10 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
 ```
 
-<!-- END_SECTION:waka -->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/jonibek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-
-<!-- TODO-IST:START -->
-
-🏆 7,995 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 673 tasks so far
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
 
 <p align="center">
   <a href="https://github.com/MJony05?tab=repositories&sort=stargazers">
@@ -104,10 +81,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
 
 
-
-<!-- **IbrohimFayzullayev/IbrohimFayzullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- <h4> Here are some ideas to get you started: </h4> -->
 
 <!-- - 🔭 I’m currently working on Frontend Development -->
 <!-- - 🌱 I’m currently learning React Js  -->
