@@ -47,7 +47,6 @@ My Tech Stack:<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sean-ias&show_icons=true&theme=gotham" alt="Shokhrukh" />
 
-## 💻 Last month's activity
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
