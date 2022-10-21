@@ -51,8 +51,6 @@ My Tech Stack:<br>
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
-<a href=""><img alt="Shokhrukh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sean-ias&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 <!--  |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
  | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
