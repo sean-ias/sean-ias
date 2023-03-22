@@ -1,28 +1,15 @@
 <h1> Hey there 👋, I'm Shokhrukh</h1>
 
-<a href="https://www.linkedin.com/in/yursunjonov/">
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://instagram.com/sean_syy">
-  <img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
-</a>
-
-<a href="https://t.me/ysh_siuuu">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sean-ias.sean-ias)
 
-Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring cybersecurity specialist.
-- 📚🎓 I am doing my Bachelor's in Information Security at Tashkent University of Information Technologies. 
-- ⚙️💻 I believe in the power of technology to change the lives of people positively. Except Security, I am also curious about DevOps, Competitive Programming, Software Engineering, and AI. 
-- 🔐👨‍💻My only and previous official job position was Cybersecurity Specialist at Italian based company - Sababa Security.
-- 📈📖 Currently busy with CISCO's and TryHackMe's courses (Cybersecurity, Linux, Networking, Penetration Testing, and more ...)
+Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring DevOps Engineer.
+- 📚🎓 I am doing my Bachelor's in Cybersecurity at Tashkent University of Information Technologies. 
+- ⚙️💻 I believe in the power of technology to change the lives of people positively. Except DevOps, I am also curious about Security, Networks, Competitive Programming, Software Engineering, and AI. 
+- 🔐👨‍💻 Currently working as DevOps Engineer at iTechArt Group. 
+- 📈📖 Currently busy with learning and practicing many tools in DevOps (Linux, Git, Docker, Kubernetes, Terraform, Ansible, ...)
 - 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 My Tech Stack:<br>
 <b>Cybersecurity</b>: Networking, Cryptography, Attacks & Concepts, Linux, XDR, Reporting<br>
