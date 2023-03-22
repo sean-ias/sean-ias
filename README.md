@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sean-ias.sean-ias)
 
 Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring DevOps Engineer.
-- 📚🎓 I am doing my Bachelor's in Cybersecurity at Tashkent University of Information Technologies. 
+- 📚🎓 Studying my Bachelor's in Cybersecurity at Tashkent University of Information Technologies. 
 - ⚙️💻 I believe in the power of technology to change the lives of people positively. Except DevOps, I am also curious about Security, Networks, Competitive Programming, Software Engineering, and AI. 
 - 🔐👨‍💻 Currently working as DevOps Engineer at iTechArt Group. 
 - 📈📖 Currently busy with learning and practicing many tools in DevOps (Linux, Git, Docker, Kubernetes, Terraform, Ansible, ...)
@@ -26,8 +26,6 @@ My Tech Stack:<br>
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sean-ias"/></a>
   <a href="https://github.com/sean-ias?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sean-ias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/sean-ias">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=sean-ias&style=for-the-badge"/></a>
 </p>
 
 <br/>
