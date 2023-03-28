@@ -1,8 +1,5 @@
 <h1> Hey there 👋, I'm Shokhrukh</h1>
 
-kubeadm join k8smaster.example.net:6443 --token i1evs9.cxbr9pkabq05qgr7 \
-	--discovery-token-ca-cert-hash sha256:096f1ac4b01010953868bb4db2fc30de18a8f69e7352b587ed12d77ae2a573b2
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sean-ias.sean-ias)
 
 Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring DevOps Engineer.
