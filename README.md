@@ -1,7 +1,7 @@
 <h1> Hey there 👋, I'm Shokhrukh</h1>
 
-kubeadm join k8smaster.example.net:6443 --token knu1gu.r259erpihvhm56jr \
-	--discovery-token-ca-cert-hash sha256:a388cdca2ba2cbd8da903da549634489d43756f097a761819705337c49c03980
+kubeadm join k8smaster.example.net:6443 --token i1evs9.cxbr9pkabq05qgr7 \
+	--discovery-token-ca-cert-hash sha256:096f1ac4b01010953868bb4db2fc30de18a8f69e7352b587ed12d77ae2a573b2
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sean-ias.sean-ias)
 
