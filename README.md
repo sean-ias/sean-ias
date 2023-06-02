@@ -1,12 +1,10 @@
 <h1> Hey there 👋, I'm Shokhrukh</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sean-ias.sean-ias)
-
 Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring DevOps Engineer.
 - 📚🎓 Studying my Bachelor's in Cybersecurity at Tashkent University of Information Technologies. 
 - ⚙️💻 I believe in the power of technology to change the lives of people positively. Except DevOps, I am also curious about Security, Networks, Competitive Programming, Software Engineering, and AI. 
-- 🔐👨‍💻 Currently working as DevOps Engineer at iTechArt Group. 
-- 📈📖 Currently busy with learning and practicing many tools in DevOps (Linux, Git, Docker, Kubernetes, Terraform, Ansible, ...)
+- 🔐👨‍💻 Currently working as DevOps Engineer at Vention. 
+- 📈📖 Currently busy with learning and practicing many tools in DevOps (Linux, Git, Docker, Kubernetes, Terraform, Ansible, AWS, DBMS)
 - 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
