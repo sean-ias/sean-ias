@@ -27,20 +27,17 @@ My Tech Stack:<br>
 <img alt="Terraform" width="23" src="./images/icons8-terraform-48.png"/>
 <img alt="Ansible" width="23" src="./images/icons8-ansible-48.png"/>
 <img alt="NGINX" width="23" src="./images/nginx_original_logo_icon_146413.png"> <br>
-
 <b>Competitive Programming</b>: 
 <img height="23" src="https://user-images.githubusercontent.com/69764265/176168040-e0a4e929-2952-4503-bc5e-eb669de42e3c.png"> <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> 
 <img height="23" src="https://user-images.githubusercontent.com/69764265/176163263-4a1726c8-a5dd-43d9-b1fd-196ebd17f614.png"> <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><br>
-
 <b>Data Analysis & Databases</b>: 
 <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> 
 <img height="23" src="https://user-images.githubusercontent.com/69764265/176168871-fdf694b5-e3d1-4eac-bb73-65b0d5eae76e.png"> <img height="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
-<img height="23" src="https://user-images.githubusercontent.com/69764265/176169056-5595b4cb-9ec1-4701-8b7f-bbc5c389963d.png"> <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><br>
+<img height="23" src="https://user-images.githubusercontent.com/69764265/176169056-5595b4cb-9ec1-4701-8b7f-bbc5c389963d.png"> <br>
 <b>Backend</b>: 
 <img height="23" src="https://user-images.githubusercontent.com/69764265/176170448-596152d3-bb9f-4163-9720-6dec92f616b3.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176174130-fcaaae05-55fb-4907-8dc2-6a508d7575fb.png"><br>
 <b>Frontend</b>: 
 <img height="23" src="https://user-images.githubusercontent.com/69764265/176171160-1573e656-416f-4894-963f-c38c1631b434.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176171978-2214fc1c-c4b3-41d6-af5f-e1f5fedca255.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176171336-ccb01bd9-ab0d-4584-b280-2dbb9ef1d2e5.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176171398-39f43c47-edac-46bd-b047-632e78a685a5.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176171530-273100fe-04c7-4136-890b-44fbe91288fa.png"><br>
-
 <b>Tools</b>: 
 <img height="23" src="https://user-images.githubusercontent.com/69764265/176172380-8c812c92-c63e-4f16-a2f5-94447c1f98c5.png"> 
 <img height="23" src="./images/DBeaver_logo.svg.png">
