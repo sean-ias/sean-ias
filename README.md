@@ -4,14 +4,24 @@ Hi, I'm <b>Shokhrukh Yursunjonov</b>, an aspiring DevOps Engineer.
 - 📚🎓 Studying my Bachelor's in Cybersecurity at Tashkent University of Information Technologies. 
 - ⚙️💻 I believe in the power of technology to change the lives of people positively. Except DevOps, I am also curious about Security, Networks, Competitive Programming, Software Engineering, and AI. 
 - 🔐👨‍💻 Currently working as DevOps Engineer at Vention. 
-- 📈📖 Currently busy with learning and practicing many tools in DevOps (Linux, Git, Docker, Kubernetes, Terraform, Ansible, AWS, DBMS)
+- 📈📖 Currently busy with learning more and making impact in projects.
 - 💼/💬 If you have any questions or suggestions, you can reach me at yshy2003@gmail.com
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 My Tech Stack:<br>
-<b>Cybersecurity</b>: Networking, Cryptography, Attacks & Concepts, Linux, XDR, Reporting<br>
-<b>DevOps</b>: <img alt="Windows" width="23" src="https://user-images.githubusercontent.com/69764265/176158241-8267894a-619a-4c92-9df4-39ef845e147f.png"/> <img alt="Linux" width="23" src="https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png"/> <img alt="AWS" width="23" height="23" src="https://user-images.githubusercontent.com/69764265/176164441-b99324bc-428f-4205-ba8a-de15b06c06f3.png"/> <img alt="Ubuntu" width="23" src="https://user-images.githubusercontent.com/69764265/176158364-9111cf29-f200-4ec9-aced-f2f4b849d531.png"/> <img alt="VM" width="23" src="https://user-images.githubusercontent.com/69764265/176161508-4429e6df-b741-43fd-acb5-fd355a28467d.png"/> <img alt="Git" width="23" src="https://user-images.githubusercontent.com/69764265/176158098-6bfd9a51-0cf0-46fc-bc71-9e08671c8c3b.png"/> <img alt="GitLab" width="23" src="https://user-images.githubusercontent.com/69764265/176158517-20ad5631-58d1-4a73-b363-f9cc614f2237.png"/> <img alt="GitHub" width="23" src="https://user-images.githubusercontent.com/69764265/176158124-7c01573a-bdc3-4f2e-8fc6-4c5479d01407.png"/> <img alt="Bash" width="23" src="https://user-images.githubusercontent.com/69764265/176163993-1b662c3c-a961-4c25-b604-691576096a24.png"/> <img alt="Docker" width="23" src="https://user-images.githubusercontent.com/69764265/176157352-be530d53-a9be-4f96-b48e-7e0ef8b222cc.png"/> <img alt="CI/CD" width="23" src="https://user-images.githubusercontent.com/69764265/176161835-39b43a1c-c87e-490f-9111-79c057121640.png"/><br>
+<b>DevOps</b>: 
+<img alt="Windows" width="23" src="https://user-images.githubusercontent.com/69764265/176158241-8267894a-619a-4c92-9df4-39ef845e147f.png"/> 
+<img alt="Linux" width="23" src="https://user-images.githubusercontent.com/69764265/176156759-1436a827-07cf-4ee7-a67f-e98a0ad37b4f.png"/> 
+<img alt="Ubuntu" width="23" src="https://user-images.githubusercontent.com/69764265/176158364-9111cf29-f200-4ec9-aced-f2f4b849d531.png"/> 
+<img alt="AWS" width="23" height="23" src="https://user-images.githubusercontent.com/69764265/176164441-b99324bc-428f-4205-ba8a-de15b06c06f3.png"/> 
+<img alt="VM" width="23" src="https://user-images.githubusercontent.com/69764265/176161508-4429e6df-b741-43fd-acb5-fd355a28467d.png"/> 
+<img alt="Git" width="23" src="https://user-images.githubusercontent.com/69764265/176158098-6bfd9a51-0cf0-46fc-bc71-9e08671c8c3b.png"/> 
+<img alt="GitLab" width="23" src="https://user-images.githubusercontent.com/69764265/176158517-20ad5631-58d1-4a73-b363-f9cc614f2237.png"/> 
+<img alt="GitHub" width="23" src="https://user-images.githubusercontent.com/69764265/176158124-7c01573a-bdc3-4f2e-8fc6-4c5479d01407.png"/> 
+<img alt="Bash" width="23" src="https://user-images.githubusercontent.com/69764265/176163993-1b662c3c-a961-4c25-b604-691576096a24.png"/> 
+<img alt="Docker" width="23" src="https://user-images.githubusercontent.com/69764265/176157352-be530d53-a9be-4f96-b48e-7e0ef8b222cc.png"/> 
+<img alt="CI/CD" width="23" src="https://user-images.githubusercontent.com/69764265/176161835-39b43a1c-c87e-490f-9111-79c057121640.png"/><br>
 <b>Competitive Programming</b>: <img height="23" src="https://user-images.githubusercontent.com/69764265/176168040-e0a4e929-2952-4503-bc5e-eb669de42e3c.png"> <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176163263-4a1726c8-a5dd-43d9-b1fd-196ebd17f614.png"> <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><br>
 <b>Data Analysis & Databases</b>: <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176168871-fdf694b5-e3d1-4eac-bb73-65b0d5eae76e.png"> <img height="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176169056-5595b4cb-9ec1-4701-8b7f-bbc5c389963d.png"> <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><br>
 <b>Backend</b>: <img height="23" src="https://user-images.githubusercontent.com/69764265/176170448-596152d3-bb9f-4163-9720-6dec92f616b3.png"> <img height="23" src="https://user-images.githubusercontent.com/69764265/176174130-fcaaae05-55fb-4907-8dc2-6a508d7575fb.png"><br>
@@ -29,21 +39,3 @@ My Tech Stack:<br>
 <br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sean-ias&show_icons=true&theme=gotham" alt="Shokhrukh" />
-
-
-<!-- https://github.com/clevercoderr/github-readme-activity-graph -->
-
-<!--  |                                                     Preview                                                     |
- | :-------------------------------------------------------------------------------------------------------------: |
- | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
-
-
-
-<!-- - 🔭 I’m currently working on Frontend Development -->
-<!-- - 🌱 I’m currently learning React Js  -->
-<!-- - 👯 I’m looking to collaborate on OpenSource -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about Frontend Development -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
